@@ -1,4 +1,4 @@
-MAX
+Carsat
 ==============
 
 ______________________________________________________________________________________________________________________
@@ -8,7 +8,7 @@ Installation
 
 install :
 
-```git clone https://github.com/CarSaTTEAM/Carsat && cd MAX && chmod +x install.sh && ./install.sh```
+```git clone https://github.com/CarSaTTEAM/Carsat && cd Carsat && chmod +x install.sh && ./install.sh```
 
 ______________________________________________________________________________________________________________________
 
