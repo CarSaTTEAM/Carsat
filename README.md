@@ -8,7 +8,7 @@ Installation
 
 install :
 
-```git clone https://github.com/TshAkETEAM/MAX && cd MAX && chmod +x install.sh && ./install.sh```
+```git clone https://github.com/CarSaTTEAM/Carsat && cd MAX && chmod +x install.sh && ./install.sh```
 
 ______________________________________________________________________________________________________________________
 
@@ -41,7 +41,7 @@ Run bot
 ______________________________________________________________________________________________________________________
 
 
-```./MAX/mx```
+```./Carsar/cr```
 
 ______________________________________________________________________________________________________________________
 
@@ -50,7 +50,7 @@ License
 
 The MIT License (MIT)
 
-Copyright (TM) 2018 **MAX**
+Copyright (TM) 2018 **Car**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
